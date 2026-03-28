@@ -56,5 +56,5 @@ python Proyecto_02.py
 
 ---
 <div align="center">
-  <i>Hecho con amor por yo ❤️</i>
+  <i>Hecho con ❤️ por @rodsterm </i>
 </div>
